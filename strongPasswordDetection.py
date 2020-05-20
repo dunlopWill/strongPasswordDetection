@@ -1,6 +1,6 @@
 #Strong Password Detection
 
-#Password requirements
+#Password requirements:
 minLength = 8 #Must be at least 8 characters
 minUpper = 1 #Must contain at least 1 uppercase character
 minLower = 1 #Must contain at least 1 lowercase character
